@@ -12,11 +12,6 @@ Backlinks:
 Creation date: "2026-05-10T20:22:31Z"
 Created by:
     - ethan
-Links:
-    - running-eve-ng-in-proxmox.md
-    - files\image_1778725639077_0.png
-    - files\image_1778725655174_0.png
-    - files\image_1778725662370_0.png
 ---
 # VM-EVE-ng   
 ## ALL VIRTUAL MACHINES AND CONTAINERS SHOULD BE **OFF** WHILE EVE-NG IS RUNNING.   
@@ -50,6 +45,3 @@ Configure bridge VM networking (VMWare (should work with vmbrX on proxmox))
 Network Adapter X = PnetX -1
 VPC needed gateway
 VMNet IP address/range needs to be the SAME   
-![image_1778725639077_0](files\image_1778725639077_0.png)    
-![image_1778725655174_0](files\image_1778725655174_0.png)    
-![image_1778725662370_0](files\image_1778725662370_0.png)    
