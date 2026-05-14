@@ -52,4 +52,4 @@ Last Updated: 10/05/26
 **IDs 0-10 (i.e. 100-110) should be reserved for management/core services (i.e. VPN with ID 100 or Samba with 101 since both are core features for other VMs)**   
    
 Edited (& backed up) systemd file logind-conf to ignore the lid closing.   
-![bafyreihbzom6epvryh3ktxudewe26pf3rb3mtxy4wdyguo7glmc6fj3y2i](files\untitled_i)    
+(files\untitled_i)    
